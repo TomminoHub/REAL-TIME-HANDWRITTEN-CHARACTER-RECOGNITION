@@ -1,4 +1,4 @@
-Open the folder. '\n'
+Open the folder. 
 You will see a set of folders, in these folder there are the first dataset (used to fine tune) and the second dataset (created by me). There are more than one because I modified the images
 The code is is the file 'handwritten_notebook'.
 The .pth files are some tries to find the best weights for the model.
